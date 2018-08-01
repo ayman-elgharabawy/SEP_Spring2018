@@ -1,6 +1,10 @@
 # SEP_Spring 2018
 Software Engineering Practice Supported Material Repository
 
+# Nodejs and React Crash Course
+
+https://www.youtube.com/watch?v=TlB_eWDSMt4
+
 # Assignment 1 Required Documents
  
 -Kindly accumulate the following required files into 1 pdf file.
