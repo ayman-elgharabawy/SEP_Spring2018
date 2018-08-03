@@ -1,4 +1,8 @@
 # SEP_Spring 2018
+
+Quiz 1 online : During workshop Week 3 , for week 1 and Week 2 slides 
+Quiz 2 online : During workshop Week 4 
+
 Software Engineering Practice Supported Material Repository
 
 # Nodejs and React Crash Course
