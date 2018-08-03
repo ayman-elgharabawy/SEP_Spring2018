@@ -44,5 +44,8 @@ Each iteration   (Word document)
 4. Deployment Architecture Diagram (Layers) (1 PDF file)
 5. Team Log book activity (word document)
 
+ ## Prototype
+ 
+ -  MVP software  , can be deployed on your personal machine , will show small working module of your first story
  
 -For Test case document , still need to double check with Dr. Asif,
