@@ -49,4 +49,12 @@ Each iteration   (Word document)
  
  -  MVP software  , can be deployed on your personal machine , will show small working module of your first story
  
--For Test case document , still need to double check with Dr. Asif,
+ ## Testing
+ 
+ -  Test cases document should be delivered.
+ 
+  ## preparing the document
+ 
+ -  All the prev. documents should be collected in 1 pdf file with assignment cover page
+ 
+
